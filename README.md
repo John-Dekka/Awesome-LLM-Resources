@@ -6,17 +6,17 @@ A curated collection of the best GitHub repositories for learning and working wi
 
 ## 📚 Table of Contents
 
-- [Learning & Courses](#-learning--courses)
-- [LLM Frameworks & Libraries](#-llm-frameworks--libraries)
-- [Prompt Engineering](#-prompt-engineering)
-- [RAG (Retrieval-Augmented Generation)](#-rag-retrieval-augmented-generation)
-- [AI Agents & Autonomous Systems](#-ai-agents--autonomous-systems)
-- [Fine-Tuning & Training](#-fine-tuning--training)
-- [Model Deployment & Serving](#-model-deployment--serving)
-- [Building from Scratch](#-building-from-scratch)
-- [Tools & Utilities](#-tools--utilities)
-- [Research Papers & Collections](#-research-papers--collections)
-- [Rare Picks & Hidden Gems](#-rare-picks--hidden-gems)
+- [Learning & Courses](#learning--courses)
+- [LLM Frameworks & Libraries](#llm-frameworks--libraries)
+- [Prompt Engineering](#prompt-engineering)
+- [RAG (Retrieval-Augmented Generation)](#rag-retrieval-augmented-generation)
+- [AI Agents & Autonomous Systems](#ai-agents--autonomous-systems)
+- [Fine-Tuning & Training](#fine-tuning--training)
+- [Model Deployment & Serving](#model-deployment--serving)
+- [Building from Scratch](#building-from-scratch)
+- [Tools & Utilities](#tools--utilities)
+- [Research Papers & Collections](#research-papers--collections)
+- [Rare Picks & Hidden Gems](#rare-picks--hidden-gems)
 
 ---
 
