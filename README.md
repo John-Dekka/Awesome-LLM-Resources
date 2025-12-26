@@ -4,23 +4,46 @@ A curated collection of the best GitHub repositories for learning and working wi
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
-- [Learning & Courses](#-learning--courses)
-- [LLM Frameworks & Libraries](#-llm-frameworks--libraries)
-- [Prompt Engineering](#-prompt-engineering)
-- [RAG (Retrieval-Augmented Generation)](#-rag-retrieval-augmented-generation)
-- [AI Agents & Autonomous Systems](#-ai-agents--autonomous-systems)
-- [Fine-Tuning & Training](#-fine-tuning--training)
-- [Model Deployment & Serving](#-model-deployment--serving)
-- [Building from Scratch](#-building-from-scratch)
-- [Tools & Utilities](#-tools--utilities)
-- [Research Papers & Collections](#-research-papers--collections)
-- [Rare Picks & Hidden Gems](#-rare-picks--hidden-gems)
+- [Learning & Courses](#learning--courses)
+- [LLM Frameworks & Libraries](#llm-frameworks--libraries)
+- [Prompt Engineering](#prompt-engineering)
+- [RAG (Retrieval-Augmented Generation)](#rag-retrieval-augmented-generation)
+- [AI Agents & Autonomous Systems](#ai-agents--autonomous-systems)
+- [Fine-Tuning & Training](#fine-tuning--training)
+- [Model Deployment & Serving](#model-deployment--serving)
+- [Building from Scratch](#building-from-scratch)
+- [Tools & Utilities](#tools--utilities)
+- [Research Papers & Collections](#research-papers--collections)
+- [Rare Picks & Hidden Gems](#rare-picks--hidden-gems)
 
 ---
 
-## 📖 Learning & Courses
+## Getting Started
+
+### For Beginners
+1. Start with **Awesome-LLM** for comprehensive overview
+2. Follow **LLMs-from-scratch** to understand fundamentals
+3. Practice with **Prompt-Engineering-Guide**
+4. Build your first app with **LangChain**
+5. Deploy locally with **Ollama**
+
+### For Intermediate Users
+1. Explore **RAG_Techniques** for advanced retrieval
+2. Build agents with **CrewAI** or **AutoGen**
+3. Fine-tune models with **LLaMA-Factory**
+4. Implement production systems with **vLLM**
+
+### For Advanced Users
+1. Contribute to **Transformers** or **LangChain**
+2. Research with **LLM-Agent-Papers**
+3. Build custom architectures from **nanoGPT**
+4. Optimize with **DeepSpeed** and **Ray**
+
+---
+
+## Learning & Courses
 
 ### Comprehensive Guides
 1. **[Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)** ⭐ 66k+  
@@ -55,7 +78,7 @@ A curated collection of the best GitHub repositories for learning and working wi
 
 ---
 
-## 🔧 LLM Frameworks & Libraries
+## LLM Frameworks & Libraries
 
 ### Core Frameworks
 11. **[LangChain](https://github.com/langchain-ai/langchain)** ⭐ 112k+  
@@ -90,7 +113,7 @@ A curated collection of the best GitHub repositories for learning and working wi
 
 ---
 
-## 💬 Prompt Engineering
+## Prompt Engineering
 
 ### Guides & Resources
 21. **[Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)** ⭐ 11k+  
@@ -119,7 +142,7 @@ A curated collection of the best GitHub repositories for learning and working wi
 
 ---
 
-## 🔍 RAG (Retrieval-Augmented Generation)
+## RAG (Retrieval-Augmented Generation)
 
 ### RAG Frameworks & Techniques
 29. **[RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)** ⭐ 20k+  
@@ -151,7 +174,7 @@ A curated collection of the best GitHub repositories for learning and working wi
 
 ---
 
-## 🤖 AI Agents & Autonomous Systems
+## AI Agents & Autonomous Systems
 
 ### Agent Frameworks
 38. **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** ⭐ 177k+  
@@ -195,7 +218,7 @@ A curated collection of the best GitHub repositories for learning and working wi
 
 ---
 
-## 🎯 Fine-Tuning & Training
+## Fine-Tuning & Training
 
 ### Fine-Tuning Tools
 51. **[LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)** ⭐ 65k+  
@@ -230,7 +253,7 @@ A curated collection of the best GitHub repositories for learning and working wi
 
 ---
 
-## 🚀 Model Deployment & Serving
+## Model Deployment & Serving
 
 ### Deployment Tools
 61. **[Text Generation Inference](https://github.com/huggingface/text-generation-inference)** ⭐ 9k+  
@@ -258,7 +281,7 @@ A curated collection of the best GitHub repositories for learning and working wi
 
 ---
 
-## 🏗️ Building from Scratch
+## Building from Scratch
 
 ### Educational Implementations
 69. **[nanoGPT](https://github.com/karpathy/nanoGPT)** ⭐ 36k+  
@@ -284,7 +307,7 @@ A curated collection of the best GitHub repositories for learning and working wi
 
 ---
 
-## 🛠️ Tools & Utilities
+## Tools & Utilities
 
 ### Development Tools
 76. **[OpenAI Python SDK](https://github.com/openai/openai-python)** ⭐ 22k+  
@@ -317,7 +340,7 @@ A curated collection of the best GitHub repositories for learning and working wi
 
 ---
 
-## 📄 Research Papers & Collections
+## Research Papers & Collections
 
 ### Paper Collections
 86. **[Papers-with-Code](https://github.com/paperswithcode/paperswithcode-data)** ⭐ 4k+  
@@ -337,7 +360,7 @@ A curated collection of the best GitHub repositories for learning and working wi
 
 ---
 
-## 💎 Rare Picks & Hidden Gems
+## Rare Picks & Hidden Gems
 
 ### Specialized & Unique Projects
 91. **[AI-Engineering-Hub](https://github.com/tmlr-group/AI-Engineering-Hub)** ⭐ 3k+  
@@ -387,38 +410,15 @@ A curated collection of the best GitHub repositories for learning and working wi
 
 ---
 
-## 🎓 Getting Started
-
-### For Beginners
-1. Start with **Awesome-LLM** for comprehensive overview
-2. Follow **LLMs-from-scratch** to understand fundamentals
-3. Practice with **Prompt-Engineering-Guide**
-4. Build your first app with **LangChain**
-5. Deploy locally with **Ollama**
-
-### For Intermediate Users
-1. Explore **RAG_Techniques** for advanced retrieval
-2. Build agents with **CrewAI** or **AutoGen**
-3. Fine-tune models with **LLaMA-Factory**
-4. Implement production systems with **vLLM**
-
-### For Advanced Users
-1. Contribute to **Transformers** or **LangChain**
-2. Research with **LLM-Agent-Papers**
-3. Build custom architectures from **nanoGPT**
-4. Optimize with **DeepSpeed** and **Ray**
-
----
-
-## 🌟 Contributing
+## Contributing
 
 Found an awesome repository that should be on this list? Feel free to contribute!
 
-## ⚡ Updates
+## Updates
 
 This list is updated regularly. Star this repo to stay updated with the latest AI/LLM resources!
 
-## 📝 License
+## License
 
 This curated list is provided as-is for educational purposes. Please check individual repositories for their specific licenses.
 
